@@ -26,9 +26,9 @@ The algorithm to calculate each points on sphere separate evenly with some dista
 
 #### Result
 
-**Regular Placement Points**  
+Left view port shows regular placement, right view port shows random placement.  
 
-<img src="images/regular_points.png" width=640>  
+<img src="images/result.png" width=1280>  
 
 #### Reference
 _How to generate equidistributed points on the surface of a sphere_, Markus Deserno, 2004  
